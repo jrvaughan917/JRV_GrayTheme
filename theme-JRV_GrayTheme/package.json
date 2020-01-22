@@ -1,5 +1,5 @@
 {
-	"name": "theme-james",
+	"name": "theme-JRV_GrayTheme",
 	"displayName": "%displayName%",
 	"description": "%description%",
 	"version": "1.0.0",
@@ -9,9 +9,9 @@
 	"contributes": {
 		"themes": [
 			{
-				"label": "James",
+				"label": "JRV_GrayTheme",
 				"uiTheme": "vs-dark",
-				"path": "./themes/james-color-theme.json"
+				"path": "./themes/JRV_GrayTheme.json"
 			}
 		]
 	}
