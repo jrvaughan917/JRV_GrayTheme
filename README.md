@@ -8,3 +8,4 @@ Copy file "JRV_GrayTheme.xml" into C:\Users\#UserName#\AppData\Roaming\Notepad++
 
 VS Code:<br/>
 Copy folder "theme-JRV_GrayTheme" into "C:\Users\#UserName#\AppData\Local\Programs\Microsoft VS Code\resources\app\extensions"
+Copy file "settings.json" into C:\Users\#UserName#\AppData\Roaming\Code\User\settings.json

@@ -2,11 +2,6 @@
 	"name": "James",
 	"tokenColors": [
 		{
-			"settings": {
-				"foreground": "#ff0000"
-			}
-		},
-		{
 			"scope": ["meta.embedded", "source.groovy.embedded"],
 			"settings": {
 				"foreground": "#000000"

@@ -1,0 +1,21 @@
+{
+    "workbench.iconTheme": "material-icon-theme",
+    "workbench.colorTheme": "JRV_GrayTheme",
+    "workbench.statusBar.visible": false,
+    "workbench.sideBar.location": "right",
+    "workbench.editor.enablePreview": false,
+    "terminal.integrated.confirmOnExit": true,
+    "editor.minimap.enabled": false,
+    "workbench.editor.tabCloseButton": "off",
+    "workbench.editor.tabSizing": "shrink",
+    "editor.cursorSmoothCaretAnimation": true,
+    "javascript.updateImportsOnFileMove.enabled": "always",
+    "workbench.tree.indent": 18,
+    "explorer.sortOrder": "filesFirst",
+    "explorer.openEditors.visible": 19,
+    "breadcrumbs.enabled": false,
+    "workbench.startupEditor": "none",
+    "editor.fontWeight": "900",
+    "editor.fontSize": 12.9,
+    "editor.fontFamily": "Monaco, Consolas, 'Courier New', monospace"
+}
