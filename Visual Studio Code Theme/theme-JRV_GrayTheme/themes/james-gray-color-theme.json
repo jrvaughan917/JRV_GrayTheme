@@ -551,6 +551,9 @@
 		"debugExceptionWidget.border": "#ab395b",
 
 		"titleBar.inactiveBackground": "#2d2d30",
-		"titleBar.activeBackground": "#2d2d30"
+		"titleBar.activeBackground": "#2d2d30",
+		
+		"diffEditor.insertedTextBackground": "#00ff0095",
+		"diffEditor.removedTextBackground": "#00ff0095",
 	}
 }
