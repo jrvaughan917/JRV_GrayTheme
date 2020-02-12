@@ -17,5 +17,23 @@
     "workbench.startupEditor": "none",
     "editor.fontWeight": "900",
     "editor.fontSize": 12.9,
-    "editor.fontFamily": "Monaco, Consolas, 'Courier New', monospace"
+    "editor.fontFamily": "Monaco, Consolas, 'Courier New', monospace",
+    "window.zoomLevel": 0,
+    "workbench.colorCustomizations": {
+        // "editor.background": "#0ffff0",
+        // "editor.foreground": "#fff000",
+        // "editorCodeLens.foreground": "#fff0ff",
+        // "editorLineNumber.activeForeground": "#fffff0",
+        // "editorLineNumber.foreground": "#0ff000",
+        // "editorLink.activeForeground": "#0fffff",
+        "foreground": "#656565", // used by Settings panel
+        "textBlockQuote.background": "#c8c8c8", // can be seen in Interactive Playground
+        // "textBlockQuote.border": "#00fff0",
+        "textCodeBlock.background": "#c8c8c8",
+        "textLink.activeForeground": "#f000ff",
+        "textLink.foreground": "#0000ff",
+        "textPreformat.foreground": "#650000",
+        "textSeparator.foreground": "#0ff00",
+        // "titleBar.activeBackground": "#ff0000",
+    }
 }
